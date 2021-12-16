@@ -11,19 +11,19 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": ""
+            "value": "5041597539:AAEbodwn-A0WZ1NvuBevw2_nruBJVZHgswg"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "12074491"
+            "value": "2573855"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "9b0aa89b38396630bbfeae59d9385bd8"
+            "value": "572261f87ac424df43d0be84c7b59feb"
         },
         "DOODSTREAM_API_KEY": {
             "description": "Get this from https://doodstream.com/api-docs (must change)",
-            "value": "66186ezt1oza1ar9unrsk"
+            "value": "69456orgv8vayjxkamc4t"
         },
          "BITLY_KEY": {
             "description": "Bitly API See Readme for further details",
@@ -31,11 +31,11 @@
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "Letest_all_web_series"
+            "value": "Vishnu_R123"
         },
         "HOWTO": {
             "description": "Your 'Join Backup' Channel link",
-            "value": "@SarvottamaMovies"
+            "value": "@Vishnu_R123"
         }
     },
     "addons": [],
